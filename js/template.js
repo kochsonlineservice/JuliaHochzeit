@@ -5,7 +5,7 @@ function getHeaderTemplate() {
 
                 <a href="#home" class="logo">
                     <img src="./assets/icons/favicon.svg" alt="Herz">
-                    <span>Julia & Marc</span>
+                    <span>Julia &  und Marc</span>
                 </a>
 
                 <nav>
